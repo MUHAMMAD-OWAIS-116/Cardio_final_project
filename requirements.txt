@@ -1,1 +1,13 @@
 
+---
+
+### requirements.txt
+list based on common libraries for machine learning projects:
+
+nump
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+
