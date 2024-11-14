@@ -4,7 +4,7 @@
 Cardio_Predict is a machine learning project developed by the HeartWise team, aimed at predicting the risk of heart disease in individuals based on clinical and demographic features. Using feature-based analysis, the project involves the training of machine learning models to accurately classify individuals as at-risk or not at-risk for heart disease.
 
 ### Team Members
-- Muhhamm Owais
+- Muhhamm Owais (Team Leader)
 - Abdul Hannan
 - Zahid Hussain
 
