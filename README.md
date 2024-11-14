@@ -31,11 +31,3 @@ The main objective is to build a predictive model that uses various health-relat
 2. **Feature Selection** - Identify the most relevant features for accurate predictions.
 3. **Model Training** - Train models to classify individuals based on the target variable (heart disease).
 4. **Evaluation** - Assess model accuracy and fine-tune as necessary.
-
-### Installation
-To run this project locally, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone <repository-url>
-   cd Cardio_Predict
